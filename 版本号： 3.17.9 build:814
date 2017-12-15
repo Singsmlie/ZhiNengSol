@@ -1,0 +1,15 @@
+版本号： 3.17.9 build:814
+推送环境 极光－开发 appstore&3179
+
+提测更新；
+1. fix AVPlayer delloc 时，removeallItem 会导致crash 问题；
+2. 解决ios7、8下图集详情页点击文字卡死的问题；
+3. 修复bug9471，iOS11下footer加载数据没有更多后底部偏移异常问题；
+4. 图集详情页重复刷新界面导致的闪一下的问题；
+5. 修复3.17.8 的bugs；
+
+注意：
+目前VR视频播放 只支持mp4,m3u8格式， 第三房源有概率播放失败，会切换到ijkplayer播放，不过就没有全景视频的效果了
+
+
+MD5 (YFVideoNewMedia.ipa) = fe3f75d4546795c76bbcfb4f6d1c1d70
